@@ -1,0 +1,17 @@
+head{
+    background-color: mediumslateblue;
+}
+
+h1{
+    color: green
+}
+
+#about{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
